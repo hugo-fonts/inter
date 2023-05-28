@@ -43,3 +43,17 @@ path = "github.com/hugo-fonts/inter/vietnamese"
 ```
 
 To enable the font in a template, use `/css/inter-vietnamese.css`.
+
+## Inter Tight
+
+This module provides CSS and web fonts for [Inter Tight](https://github.com/rsms/inter-gf-tight).
+
+## Latin only
+
+```toml
+[module]
+[[module.imports]]
+path = "github.com/hugo-fonts/inter/tight"
+```
+
+To enable the font in a template, use `/css/inter-tight-latin.css`.
